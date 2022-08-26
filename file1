@@ -1,1 +1,3 @@
 this is an example for conflict in Merge
+stash file1
+stash seconf line instash
