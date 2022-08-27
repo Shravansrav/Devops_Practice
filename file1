@@ -1,7 +1,7 @@
 this is an example for conflict in Merge
-<<<<<<< HEAD
+HEAD
+HEAD
 stash file1
 stash seconf line instash
 stash firstline
-=======
->>>>>>> parent of 25fab20 (commited file1)
+
