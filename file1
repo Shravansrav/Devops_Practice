@@ -1,7 +1,1 @@
-this is an example for conflict in Merge
-HEAD
-HEAD
-stash file1
-stash seconf line instash
-stash firstline
-
+Edited as to merge in 
